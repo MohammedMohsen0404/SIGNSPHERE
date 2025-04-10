@@ -1,4 +1,4 @@
-# # SIGNSPHERE: Real-Time Sign Language Avatar for Football Commentary
+# SIGNSPHERE: Real-Time Sign Language Avatar for Football Commentary
 
 ## Project Overview
 

@@ -1,5 +1,11 @@
 # SIGNSPHERE: Real-Time Sign Language Avatar for Football Commentary
 
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2a7c48ee-ec5c-4dbb-b32b-3e12cd5cdb02" height="300"/>
+</p>
+
 ## Project Overview
 
 SIGNSPHERE is designed to enhance the experience of hearing-impaired individuals watching football matches. Using AI-powered technology, we convert live football commentary into sign language through a dynamic avatar. The system captures the audio commentary, transcribes it in real-time, translates it to sign language, and displays the translation using a 3D avatar.
